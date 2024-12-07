@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="container mt-5">
-    <h1 class="text-center">Bài kiểm tra trắc nghiệm</h1>
+    <h1 class="text-center">Bài kiểm tra trắc nghiệm</h1>dcdcdcdcdcdcdcdcd
     <form action="submit.php" method="POST">
         <?php
         // Đường dẫn đến tệp câu hỏi
